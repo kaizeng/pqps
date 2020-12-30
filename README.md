@@ -1,4 +1,4 @@
-# pqps
+# q-react
 
 react front end + kdb back end via REST api.
 
